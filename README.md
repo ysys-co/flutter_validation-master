@@ -1,4 +1,4 @@
-[_Flutter Validation_](https://github.com/MoaidAlrazhy/flutter_validation) is localized validation package wrapped around [_form_field_validator_](https://pub.dev/packages/form_field_validator) to deliver ready localized validation messages.
+[_Flutter Validation_](https://github.com/ysys-co/flutter_validation) is localized validation package wrapped around [_form_field_validator_](https://pub.dev/packages/form_field_validator) to deliver ready localized validation messages.
 
 1. [Getting Started](#getting-started)
 1. [Validators](#validators)
@@ -195,4 +195,4 @@ MultiValidator([
 
 # How does it work
 
-As the library delivers a localized validation so it depends on both of [validation_localizations](https://github.com/MoaidAlrazhy/flutter-localizations/tree/master/packages/validation_localizations) and [attribute_localizations](https://github.comMoaidAlrazhyhsul4n/flutter-localizations/tree/master/packages/attribute_localizations).
+As the library delivers a localized validation so it depends on both of [validation_localizations](https://github.com/ysys-co/flutter-localizations/tree/master/packages/validation_localizations) and [attribute_localizations](https://github.comMoaidAlrazhyhsul4n/flutter-localizations/tree/master/packages/attribute_localizations).
