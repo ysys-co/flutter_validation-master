@@ -22,7 +22,7 @@
 ```yaml
 dependencies:
   flutter_validation:
-    git: git://github.com/MoaidAlrazhy/flutter_validation.git
+    git: git://github.com/ysys-co/flutter_validation.git
 ```
 
 1. Add localizations delegates in your `MaterialApp` widget:
@@ -195,4 +195,4 @@ MultiValidator([
 
 # How does it work
 
-As the library delivers a localized validation so it depends on both of [validation_localizations](https://github.com/ysys-co/flutter-localizations/tree/master/packages/validation_localizations) and [attribute_localizations](https://github.comMoaidAlrazhyhsul4n/flutter-localizations/tree/master/packages/attribute_localizations).
+As the library delivers a localized validation so it depends on both of [validation_localizations](https://github.com/ysys-co/flutter-localizations/tree/master/packages/validation_localizations) and [attribute_localizations](https://github.com/ysys-co/flutter-localizations/tree/master/packages/attribute_localizations).
